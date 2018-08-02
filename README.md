@@ -6,6 +6,7 @@ so the nanoHUB_remote folder here is unique.
 Also only graphs can properly be output at this
 time.
 
-
-
-# nanoHUB_API_mdanalysis
+# mysecrets.py
+Also note that a mysecrets.py file needs to be
+made and added to this directory for the code to
+work.
